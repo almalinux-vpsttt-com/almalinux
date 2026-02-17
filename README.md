@@ -4,7 +4,7 @@ address:
   https: https://almalinux.vpsttt.com/
   rsync: rsync://almalinux.vpsttt.com/almalinux
 update_frequency: 3h
-sponsor: AZVPS
+sponsor: VPSTTT GROUP
 sponsor_url: https://vpsttt.com/
 email: lienhe@vpsttt.com
 geolocation:
